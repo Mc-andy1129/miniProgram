@@ -1,0 +1,16 @@
+{
+    "pages": [
+        "pages/main/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "天气",
+        "navigationBarTextStyle": "black"
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "小姐姐，我要获取你的地理位置"
+        }
+    }
+}
